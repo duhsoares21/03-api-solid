@@ -1,0 +1,78 @@
+{
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "files.eol": "\n",
+    "workbench.iconTheme": "symbols",
+    "glassit.alpha": 255,
+    "tabnine.experimentalAutoImports": true,
+    "colorize.languages": [
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "postcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg",
+        "typescript",
+        "typescriptreact"
+    ],
+    "colorize.exclude": [
+        "**/.git",
+        "**/.svn",
+        "**/.hg",
+        "**/CVS",
+        "**/.DS_Store",
+        "**/.git",
+        "**/node_modules",
+        "**/bower_components",
+        "**/tmp",
+        "**/dist",
+        "**/tests"
+    ],
+    "colorize.colorized_variables": [
+        "LESS",
+        "SASS",
+        "CSS",
+        "STYLUS"
+    ],
+    "colorize.hide_current_line_decorations": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "colorize.colorized_colors": [
+        "BROWSERS_COLORS",
+        "HEXA",
+        "RGB",
+        "HSL"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.scrollback": 1e+24,
+    "stripe.cliInstallPath": "C:\\Users\\edusc\\Desktop\\stripe_1.17.2_windows_x86_64\\stripe.exe",
+    "workbench.editor.empty.hint": "hidden",
+    "window.restoreWindows": "none",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "remote.SSH.remotePlatform": {
+        "sandbox.plxxnl.csb": "linux"
+    },
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": false,
+    "editor.insertSpaces": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+    },
+    "eslint.format.enable": true,
+    "javascript.format.enable": false,
+    "workbench.colorTheme": "Omni",
+    "workbench.editorAssociations": {
+        "*.db": "sqlite-viewer.option"
+    },
+    "eslint.codeActionsOnSave.rules": null
+}
